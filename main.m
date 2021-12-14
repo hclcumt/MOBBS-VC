@@ -45,6 +45,6 @@ while  nowiter<maxiter
     
     nowiter=nowiter+1
 end
-
+ bandsubset=cujian_pbest;
 
 
